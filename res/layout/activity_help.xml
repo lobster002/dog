@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <com.pro.phone.MyScrollLayout 
+      android:id="@+id/helpScrollL"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"
+	  android:orientation="vertical"
+	  android:visibility="visible">
+      <RelativeLayout  android:background="@drawable/s1"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	  <RelativeLayout  android:background="@drawable/s2"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	  <RelativeLayout  android:background="@drawable/s3"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	   <RelativeLayout  android:background="@drawable/s4"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	    <RelativeLayout  android:background="@drawable/s5"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	    <RelativeLayout  android:background="@drawable/s6"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	    <RelativeLayout  android:background="@drawable/s7"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	    <RelativeLayout  android:background="@drawable/s8"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	 <RelativeLayout  android:background="@drawable/s9"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+	 <RelativeLayout  android:background="@drawable/s10"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"/>
+      <RelativeLayout  android:background="@drawable/s11"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent">
+          <Button
+              android:id="@+id/backBtn"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentBottom="true"
+              android:layout_centerHorizontal="true"
+              android:layout_marginBottom="90dp"
+              android:text="返回"
+              android:textSize="18sp"
+              android:textColor="@color/TextColor"
+              android:background="@drawable/button_bg"
+              android:layout_marginLeft="8dp"
+			  android:layout_marginRight="8dp"
+			  android:layout_gravity="center_vertical"
+              />
+      </RelativeLayout>
+      </com.pro.phone.MyScrollLayout>
+    <LinearLayout 
+    	android:orientation="horizontal" 
+    	android:id="@+id/helplayout" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content" 
+    	android:layout_marginBottom="24.0dip" 
+    	android:layout_alignParentBottom="true" 
+    	android:layout_centerHorizontal="true"
+    	android:visibility="visible">
+    	
+        <ImageView android:clickable="true"  android:padding="5.0dip" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+        <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" />
+         <ImageView android:clickable="true"  android:padding="5.0dip"  android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/page_indicator_bg" /> 
+    </LinearLayout>
+        
+
+</RelativeLayout>

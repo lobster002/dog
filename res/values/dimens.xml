@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="layout_marginRight">-8dp</dimen>
+    <dimen name="layout_marginBottom">110dp</dimen>
+    <dimen name="layout_marginLeft">-8dp</dimen>
+    <dimen name="top_marginbottom">35dp</dimen>
+
+</resources>

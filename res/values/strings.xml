@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">老人助手</string>
+    <string name="title_activity_p">P</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="getting_location">正在获取位置信息，请稍后...</string>
+    <string name="cannot_get_location">获取位置信息失败，请重试...</string>
+    <string name="location_north">%s 北</string>
+    <string name="location_south">%s 南</string>
+    <string name="location_east">%s 东</string>
+    <string name="location_west">%s 西</string>
+    <string name="north">%s 北纬</string>
+    <string name="south">%s 南纬</string>
+    <string name="east">%s 东经</string>
+    <string name="west">%s 西经</string>
+
+</resources>

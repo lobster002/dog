@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+	android:oneshot="true" android:visible="true">
+	<item android:drawable="@drawable/music1" android:duration="50" />
+	<item android:drawable="@drawable/music2" android:duration="50" />
+	<item android:drawable="@drawable/music3" android:duration="50" />
+	<item android:drawable="@drawable/music4" android:duration="50" />
+	<item android:drawable="@drawable/music5" android:duration="50" />
+	<item android:drawable="@drawable/music6" android:duration="50" />
+	<item android:drawable="@drawable/music7" android:duration="50" />
+	<item android:drawable="@drawable/music8" android:duration="50" />
+	<item android:drawable="@drawable/music9" android:duration="50" />
+	<item android:drawable="@drawable/music10" android:duration="50" />
+	<item android:drawable="@drawable/music11" android:duration="50" />
+	<item android:drawable="@drawable/music32" android:duration="50" />
+	<item android:drawable="@drawable/music33" android:duration="50" />
+	<item android:drawable="@drawable/music34" android:duration="50" />
+	<item android:drawable="@drawable/music35" android:duration="50" />
+	<item android:drawable="@drawable/music36" android:duration="50" />
+	<item android:drawable="@drawable/music37" android:duration="50" />
+	<item android:drawable="@drawable/music38" android:duration="50" />
+	<item android:drawable="@drawable/music39" android:duration="50" />
+	<item android:drawable="@drawable/music40" android:duration="50" />
+	<item android:drawable="@drawable/music41" android:duration="50" />
+	<item android:drawable="@drawable/music43" android:duration="50" />
+	<item android:drawable="@drawable/music45" android:duration="50" />
+	<item android:drawable="@drawable/music47" android:duration="50" />
+	<item android:drawable="@drawable/music49" android:duration="50" />
+	<item android:drawable="@drawable/music51" android:duration="50" />
+	<item android:drawable="@drawable/music53" android:duration="50" />
+	<item android:drawable="@drawable/music55" android:duration="50" />
+	<item android:drawable="@drawable/music57" android:duration="50" />
+	<item android:drawable="@drawable/music59" android:duration="50" />
+	<item android:drawable="@drawable/music60" android:duration="50" />
+</animation-list>
